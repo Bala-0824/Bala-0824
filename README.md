@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bala-0824
-- 👀 I’m interested in Full stack development
-- 🌱 I’m currently learning python,java,SQL
+- 👀 I’m interested in Full Stack Development
+- 🌱 I’m currently learning Python,Java,SQL
 - 📫 How to reach me balasubramani824@gmail.com
 
 <!---
